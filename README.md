@@ -10,3 +10,5 @@ Run main.py to start the game. Default level is 4 but if you want to change the 
 ###---RUNNING FROM TERMINAL---###
 
 Write "python main.py ASTAR 4" to terminal. If you want to change the game level change 4.
+
+You can also play the game yourself. To play the game change "ASTAR" to "HUMAN" in all above commands.
